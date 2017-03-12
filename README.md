@@ -1,7 +1,7 @@
 # nw-5766
 case for nw issue #5766
 
-Globally install nw@0.21.1-sdk
+Globally install nw 0.21.1-sdk
 
 Run this with nw .
 
