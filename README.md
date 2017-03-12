@@ -15,4 +15,4 @@ right click and click reload app
 
 The autocomplete should appear and should display the message discussed in https://github.com/nwjs/nw.js/issues/5766
 
-http://imgur.com/a/cuQSy
+Just in case: http://imgur.com/a/cuQSy
